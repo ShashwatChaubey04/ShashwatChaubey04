@@ -5,8 +5,8 @@ Welcome to my GitHub! I'm a passionate **Flutter Developer** who loves crafting 
 ---
 
 ## 🌟 About Me  
-- 🎯 **C++ Enthusiast**: Solved **500+ DSA problems** on platforms like LeetCode and HackerRank, mastering **Data Structures & Algorithms**.  
-- 💻 **Java Pro**: Proficient in core programming and OOP for robust app development.  
+- 🎯 **C++ Enthusiast**: Solved **500+ problems** on platforms like LeetCode, Codeforces and Codechef, mastering **Data Structures & Algorithms** & **Competitive Programming**.  
+- 💻 **Java Pro**: Proficient in core programming and OOP.  
 - 📱 **Flutter Wizard**: Building stunning cross-platform apps with **Flutter** and **Dart**.  
 - 🌐 **Full-Stack Explorer**: Diving into **Node.js**, **Express**, and **MongoDB** for end-to-end solutions.  
 - 🎨 **UI/UX Enthusiast**: Customized **Android Studio** with a sleek dark theme for an optimized coding experience.  
@@ -39,10 +39,10 @@ Welcome to my GitHub! I'm a passionate **Flutter Developer** who loves crafting 
 Here are some projects I'm proud of:  
 
 - **📋 To-Do App**: A productivity app built with **Flutter** and **Firebase**, allowing users to create, edit, and categorize tasks with reminders and a clean UI.  
-  🔗 [View Repo](https://github.com/ShashwatChaubey04/todo-app) | 🌟 [Live Demo](#)  
+  🔗 [View Repo](https://github.com/ShashwatChaubey04/todo-app) 
 
 - **☀️ Weather App**: A real-time weather forecasting app using **Flutter** and **OpenWeatherMap API**, displaying temperature, humidity, and 5-day forecasts based on user location.  
-  🔗 [View Repo](https://github.com/ShashwatChaubey04/weather-app) | 🌟 [Live Demo](#)  
+  🔗 [View Repo](https://github.com/ShashwatChaubey04/weather-app) 
 
 - **🏛 Samagra Clone**: A full-stack governance-inspired app cloned using **Flutter**, **Node.js**, and **MongoDB**, featuring user authentication and data management for scalable services.  
   🔗 [View Repo](https://github.com/ShashwatChaubey04/samagra-clone)  
@@ -71,7 +71,7 @@ Here are some projects I'm proud of:
 
 ## 📫 Let's Connect  
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/shashwat-chaubey)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shashwatchaubey/)  
 - 📬 **Email**: `chaubeyshashwat04062005@gmail.com`  
 - 🌐 [Portfolio](#) (coming soon!)  
 
