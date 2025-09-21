@@ -82,7 +82,7 @@ Here are some projects I'm proud of:
 
 ---
 
-> *“Experience is the name everyone gives to their mistakes.”* – Oscar Wilde  
+> *“he slower you code, the less you debug. The faster you code, the longer you debug..”* – Shashwat Chaubey 
 
 ---
 
