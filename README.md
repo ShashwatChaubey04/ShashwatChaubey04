@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shashwat Chaubey!  
 
-Welcome to my GitHub! I'm a passionate **Flutter Developer** who loves crafting clean code, solving real-world problems, and building scalable, user-friendly applications. 🚀  
+Welcome to my GitHub! I'm a passionate **Flutter, React and Backend Developer** who loves crafting clean code, solving real-world problems, and building scalable, user-friendly applications. 🚀  
 
 ---
 
