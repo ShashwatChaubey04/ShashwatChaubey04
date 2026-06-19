@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shashwat Chaubey!  
 
-Welcome to my GitHub! I'm a passionate **Flutter, React and Backend Developer** who loves crafting clean code, solving real-world problems, and building scalable, user-friendly applications. 🚀  
+Welcome to my GitHub! I'm a passionate **React JS, React Native and Backend Developer** who loves crafting clean code, solving real-world problems, and building scalable, user-friendly applications. 🚀  
 
 ---
 
@@ -73,7 +73,7 @@ Here are some projects I'm proud of:
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shashwatchaubey/)  
 - 📬 **Email**: `chaubeyshashwat04062005@gmail.com`  
-- 🌐 **Portfolio**: `shashwatchaubey-portfolio.vercel.app`
+- 🌐 [Portfolio](shashwatchaubey-portfolio.vercel.app)
 
 <p align="center">  
   <img src="https://img.shields.io/badge/-Flutter%20Enthusiast-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Enthusiast"/>  
