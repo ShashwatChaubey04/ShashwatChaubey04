@@ -73,7 +73,7 @@ Here are some projects I'm proud of:
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shashwatchaubey/)  
 - 📬 **Email**: `chaubeyshashwat04062005@gmail.com`  
-- 🌐 [Portfolio](#) (coming soon!)  
+- 🌐 **Portfolio**: `shashwatchaubey-portfolio.vercel.app`
 
 <p align="center">  
   <img src="https://img.shields.io/badge/-Flutter%20Enthusiast-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Enthusiast"/>  
