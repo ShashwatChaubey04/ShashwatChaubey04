@@ -5,11 +5,8 @@ Welcome to my GitHub! I'm a passionate **React JS, React Native and Backend Deve
 ---
 
 ## 🌟 About Me  
-- 🎯 **C++ Enthusiast**: Solved **500+ problems** on platforms like LeetCode, Codeforces and Codechef, mastering **Data Structures & Algorithms** & **Competitive Programming**.  
-- 💻 **Java Pro**: Proficient in core programming and OOP.  
-- 📱 **Flutter Wizard**: Building stunning cross-platform apps with **Flutter** and **Dart**.  
+- 🎯 **C++ Enthusiast**: Solved **500+ problems** on platforms like LeetCode, Codeforces and Codechef, mastering **Data Structures & Algorithms** & **Competitive Programming**.   
 - 🌐 **Full-Stack Explorer**: Diving into **Node.js**, **Express**, and **MongoDB** for end-to-end solutions.  
-- 🎨 **UI/UX Enthusiast**: Customized **Android Studio** with a sleek dark theme for an optimized coding experience.  
 - 📚 **Lifelong Learner**: Always leveling up my skills, one commit at a time!  
 
 ---
@@ -21,9 +18,6 @@ Welcome to my GitHub! I'm a passionate **React JS, React Native and Backend Deve
 
 ### 🧠 DSA & Competitive Programming  
 `C++ STL` | `Recursion` | `Dynamic Programming` | `Binary Search` | `Graphs` | `Trees`  
-
-### 📱 App Development  
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)  
 
 ### 🌐 Web Development  
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
@@ -73,7 +67,7 @@ Here are some projects I'm proud of:
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shashwatchaubey/)  
 - 📬 **Email**: `chaubeyshashwat04062005@gmail.com`  
-- 🌐 [Portfolio](shashwatchaubey-portfolio.vercel.app)
+- 🌐 [Portfolio](https://shashwatchaubey-portfolio.vercel.app/)
 
 <p align="center">  
   <img src="https://img.shields.io/badge/-Flutter%20Enthusiast-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Enthusiast"/>  
@@ -82,7 +76,7 @@ Here are some projects I'm proud of:
 
 ---
 
-> *“The slower you code, the less you debug. The faster you code, the longer you debug..”* – Shashwat Chaubey 
+> *“The slower you code, the less you debug. The faster you code, the longer you debug..”*
 
 ---
 
